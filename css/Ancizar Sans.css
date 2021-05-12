@@ -1,0 +1,79 @@
+@font-face {
+	font-family: 'Ancizar Sans';
+	src: url(../../assets/fonts/AncizarSans-Light.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSans-Light.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ancizar Sans';
+	src: url(../../assets/fonts/AncizarSans-LightItalic.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSans-LightItalic.woff) format('woff');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Ancizar Sans';
+	src: url(../../assets/fonts/AncizarSans-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSans-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ancizar Sans';
+	src: url(../../assets/fonts/AncizarSans-RegularItalic.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSans-RegularItalic.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Ancizar Sans';
+	src: url(../../assets/fonts/AncizarSans-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSans-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ancizar Sans';
+	src: url(../../assets/fonts/AncizarSans-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSans-BoldItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Ancizar Sans';
+	src: url(../../assets/fonts/AncizarSans-Extrabold.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSans-Extrabold.woff) format('woff');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ancizar Sans';
+	src: url(../../assets/fonts/AncizarSans-ExtraboldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSans-ExtraboldItalic.woff) format('woff');
+	font-weight: 800;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Ancizar Sans';
+	src: url(../../assets/fonts/AncizarSans-Black.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSans-Black.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ancizar Sans';
+	src: url(../../assets/fonts/AncizarSans-BlackItalic.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSans-BlackItalic.woff) format('woff');
+	font-weight: 900;
+	font-style: italic;
+}

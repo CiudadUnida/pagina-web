@@ -1,0 +1,63 @@
+@font-face {
+	font-family: 'Ancizar Serif';
+	src: url(../../assets/fonts/AncizarSerif-Light.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSerif-Light.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ancizar Serif';
+	src: url(../../assets/fonts/AncizarSerif-LightItalic.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSerif-LightItalic.woff) format('woff');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Ancizar Serif';
+	src: url(../../assets/fonts/AncizarSerif-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSerif-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ancizar Serif';
+	src: url(../../assets/fonts/AncizarSerif-RegularItalic.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSerif-RegularItalic.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Ancizar Serif';
+	src: url(../../assets/fonts/AncizarSerif-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSerif-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ancizar Serif';
+	src: url(../../assets/fonts/AncizarSerif-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSerif-BoldItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Ancizar Serif';
+	src: url(../../assets/fonts/AncizarSerif-Extrabold.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSerif-Extrabold.woff) format('woff');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ancizar Serif';
+	src: url(../../assets/fonts/AncizarSerif-ExtraboldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/AncizarSerif-ExtraboldItalic.woff) format('woff');
+	font-weight: 800;
+	font-style: italic;
+}
